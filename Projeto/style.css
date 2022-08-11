@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+body{
+  background-image: url("https://img.freepik.com/fotos-gratis/cinema-com-caixa-de-pipoca_23-2148133601.jpg?w=996&t=st=1660221652~exp=1660222252~hmac=7128c545b57cb56aeed8e889ee907df92eb89487007815ba88d9b21ebfc640a9");
+  padding: 20px;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: hsl(240, 100, 100%)
+}
+h1{
+  font-family: 'Rubik Dirt', cursive, Arial, Helvetica, sans-serif ;
+  color: rgb(180, 6, 6)
+
+}
+
+.button{
+  font-family: 'Rubik Dirt', cursive;
+  color: rgb(180, 6, 6)
+}
+.principal{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  align-items: center;
+  text-align: center;
+
+
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manipulação de dados</title> <!--Comentario-->
+</head>
+<body>
+  <h1>Variaveies</h1>
+  <script>
+    var nome = window.prompt("Qual é o seu nome") // pergunta o nome e armazena na variavel nome
+    window.alert("É um grande prazer te conhecer, " + nome +"!") // Para exibir a variaver tipo string nesse caso usamos a concatenação +.
+    var n1 = window.prompt(""+nome+" digite um numero") // o sinal de + serve tanto para concacatenar e somar
+    var n2= window.prompt(""+nome+" digite outro numero") //prompt retorna uma string
+    var s = Number(n1) + Number(n2) ; // para fazer essa soma é preciso converter o de string para numero
+    window.alert('´A soma entre${n1}e${n2}é igual a${s}´')
+  </script>
+</body>
+</html>
