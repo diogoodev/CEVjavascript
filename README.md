@@ -22,6 +22,6 @@ Fique à vontade para explorar os projetos, visualizá-los em funcionamento e ex
 Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para me encontrar em:
 
 - [E-mail](diogoodev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/diogoomoura)
+- [LinkedIn](https://www.linkedin.com/in/diogomouraa)
 
 Espero que este repositório seja útil para consolidar seu aprendizado em JavaScript. Aproveite os projetos e continue a aprimorar suas habilidades nessa linguagem poderosa!
