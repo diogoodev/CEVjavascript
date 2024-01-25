@@ -24,4 +24,4 @@ Se você tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade p
 - [E-mail](diogoodev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/diogomouraa)
 
-Espero que este repositório seja útil para consolidar seu aprendizado em JavaScript. Aproveite os projetos e continue a aprimorar suas habilidades nessa linguagem poderosa!
+Espero que este repositório seja útil para consolidar seu aprendizado em JavaScript. 
